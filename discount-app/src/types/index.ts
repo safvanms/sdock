@@ -11,6 +11,7 @@ export interface Discount {
     durationMonths?: number
     status: DiscountStatus
     isManual?: boolean
+    
 }
 
 export interface CartProduct {
